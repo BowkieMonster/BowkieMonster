@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @BowkieMonster
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... listening 
+- 🌱 I’m currently learning ... to listen
+- 💞️ I’m looking to collaborate on ... big projects
+- 📫 Dbowker0830@live.com
 
-<!---
-BowkieMonster/BowkieMonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
